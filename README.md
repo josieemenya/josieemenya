@@ -1,6 +1,6 @@
 # <p align="center">Welcome!</p>
 
-## Hi there 👋
+## Hello! I am Josephine, a games developer looking to work in a games studio as a gameplay programmer!
 
 <!--
 **josieemenya/josieemenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
