@@ -16,4 +16,4 @@
 ### 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/josieemenya)
-- [Itch.io](https://itch.io/profile/joomen
+- [Itch.io](https://itch.io/profile/joomen)
