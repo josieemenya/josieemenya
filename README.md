@@ -3,6 +3,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&letterSpacing=high&duration=4000&pause=100&color=679289&center=true&width=1000&lines=Hello!+I'm+Josephine+%F0%9F%98%84;A+gameplay+programmer+turning+ideas+into+playable+worlds%E2%98%80%EF%B8%8F;Currently+learning+new+game+systems+and+creating+small+projects!)](https://git.io/typing-svg)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+
 <!--
 **josieemenya/josieemenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
