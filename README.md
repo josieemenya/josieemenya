@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=josieemenya&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6E96&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak" width="48%" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josieemenya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=ffffff&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josieemenya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=ffffff&langs_count=8" width="30%" />
 
 </div>
 
