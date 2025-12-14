@@ -1,10 +1,7 @@
 # <p align="center">Welcome!</p>
 
-## Hi there 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+a+Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&letterSpacing=high&duration=4000&pause=100&color=679289&width=435&lines=Hello!+I'm+Josephine+%F0%9F%98%84;I'm+a+gameplay+programmer!;I+use+mostly+C%2B%2B+%26+Unreal+Engine!)](https://git.io/typing-svg)
 
 <!--
 **josieemenya/josieemenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
