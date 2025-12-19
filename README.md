@@ -20,7 +20,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!--![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)--> 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GDscript?style=flat-square&logo=%23478CBF)
 
 
 
