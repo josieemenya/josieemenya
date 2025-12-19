@@ -4,6 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&letterSpacing=high&duration=4000&pause=100&color=679289&center=true&width=1000&lines=Hello!+I'm+Josephine+%F0%9F%98%84;A+gameplay+programmer+turning+ideas+into+playable+worlds%E2%98%80%EF%B8%8F;Currently+learning+new+game+systems+and+creating+small+projects!)](https://git.io/typing-svg)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y0sF5xhGreA?si=j8yER7PmRAdCQMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 <div align="center">
 ## 📊 My GitHub Statistics
 </div>
@@ -29,7 +34,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=josieemenya&bg_color=0d1117&color=ffffff&line=ff6e96&point=ffffff&area=true&hide_border=true" />
 </div>
 
-### My Socials
+## My Socials
 <!-- [] Youtube
     [] Bluesky
     [] - Insta?
