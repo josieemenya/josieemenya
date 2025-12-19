@@ -5,11 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&size=28&letterSpacing=high&duration=4000&pause=100&color=679289&center=true&width=1000&lines=Hello!+I'm+Josephine+%F0%9F%98%84;A+gameplay+programmer+turning+ideas+into+playable+worlds%E2%98%80%EF%B8%8F;Currently+learning+new+game+systems+and+creating+small+projects!)](https://git.io/typing-svg)
 
 
-[![Watch the video](https://img.youtube.com/vi/y0sF5xhGreA/0.jpg)](https://www.youtube.com/watch?v=y0sF5xhGreA)
-
-
-
-
 <div align="center">
 ## 📊 My GitHub Statistics
 </div>
