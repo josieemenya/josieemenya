@@ -31,7 +31,7 @@
     [] - Insta?
     [] - tik tok?
 -->
-[LinkedIn](https://www.linkedin.com/in/josieemenya)
+[LinkedIn](https://www.linkedin.com/in/josieemenya) <br>
 [Personal Website](https://josephineemenya.co.uk)
 
 
