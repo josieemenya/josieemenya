@@ -25,6 +25,10 @@
 ![Static Badge](https://img.shields.io/badge/GDscript?style=flat-square&logo=%23478CBF)
 
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josieemenya&bg_color=0d1117&color=ffffff&line=ff6e96&point=ffffff&area=true&hide_border=true" />
+</div>
+
 ### My Socials
 <!-- [] Youtube
     [] Bluesky
