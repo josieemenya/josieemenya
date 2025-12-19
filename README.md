@@ -25,6 +25,15 @@
 ![Static Badge](https://img.shields.io/badge/GDscript?style=flat-square&logo=%23478CBF)
 
 
+### My Socials
+<!-- [] Youtube
+    [] Bluesky
+    [] - Insta?
+    [] - tik tok?
+-->
+[LinkedIn](https://www.linkedin.com/in/josieemenya)
+[Personal Website](https://josephineemenya.co.uk)
+
 
 
 
