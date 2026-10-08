@@ -8,10 +8,10 @@ Software Engineer with 1+ years of experience building tools, ai systems and gam
 
 ## Featured Projects
 
-### Unreal Engine 5 Plugin 
-
-### Develop At Ubisoft Project
-
+#### Unreal Engine 5 Plugin 
+---
+#### Develop At Ubisoft Project
+---
 
 
 ## Tech Stack 
