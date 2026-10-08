@@ -17,13 +17,13 @@ Software Engineer with 1+ years of experience building tools, ai systems and gam
 ---
 
 
---
+---
 ## Current Goals
---
+---
 
---
+---
 ## My Socials
---
+---
 <!-- [] Youtube
     [] Bluesky
     [] - Insta?
