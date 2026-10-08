@@ -1,7 +1,6 @@
 # <p align="center">Welcome!</p>
 
 ---
-
 ## Hello, I'm Josephine👋
 ---
 Software Engineer with 1+ years of experience building tools, ai systems and gameplay systems.
