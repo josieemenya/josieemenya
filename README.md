@@ -8,7 +8,7 @@ Software Engineer with 1+ years of experience building tools, ai systems and gam
 
 ## ⚙️ Featured Projects
 
-[Unreal Engine 5 Plugin](https://www.fab.com/listings/18e08806-3f39-4087-a18d-883b8b51126c)
+[Unreal Engine 5 Plugin](https://www.fab.com/listings/18e08806-3f39-4087-a18d-883b8b51126c) <br>
 [Develop At Ubisoft Project](www.github.com/josieemenya/ai-project)
 
 ---
@@ -22,17 +22,15 @@ Software Engineer with 1+ years of experience building tools, ai systems and gam
 - Linux
 
 ---
-## Current Goals
+## 🎯 Current Goals
 
 - Linux
 - Perfecting my craft
 - Working on Collaborative Projects
 
 ---
+## 🤳 My Socials
 
----
-## My Socials
----
 <!-- [] Youtube
     [] Bluesky
     [] - Insta?
@@ -42,6 +40,9 @@ Software Engineer with 1+ years of experience building tools, ai systems and gam
 [Personal Website](https://josephineemenya.co.uk)
 
 
+---
+
+<!-- ## 💌 Contact Me 
 
 
 <!--
